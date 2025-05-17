@@ -1,4 +1,4 @@
-# Hotel-Booking-Cancellation-Prediction
+# Hotel Booking Cancellation Prediction
 This project analyzes hotel booking records to predict cancellations using supervised machine learning techniques. It provides insights into key features that influence cancellation behavior and builds classification models to help hotels reduce revenue loss.
 
 ## Objective 
